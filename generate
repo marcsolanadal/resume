@@ -1,0 +1,4 @@
+#! /bin/bash
+
+pandoc -t html -s --self-contained --css resume.css resume.md -o resume.html
+wkhtmltopdf -B 15mm -T 10mm resume-self-contained.html resume.pdf
