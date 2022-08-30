@@ -1,8 +1,7 @@
 :root {
   --main-color: black;
-  --title-color: firebrick;
-  --bar-color: #ccc;
-  --strong-color: chocolate;
+  --title-color: darkblue;
+  --strong-color: royalblue;
   --dim-color: dimgray; 
 }
 
@@ -18,8 +17,12 @@ h1, h2 {
 
 h2 {
   font-size: 24px;
-  border-bottom: 1px solid var(--bar-color);
+  border-bottom: 2px solid var(--title-color);
   margin-top: 1.5em;
+}
+
+h4 {
+  margin-bottom: 12px;
 }
 
 h6 {

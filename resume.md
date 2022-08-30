@@ -1,8 +1,8 @@
-Marc Solà Nadal
+MARC SOLÀ NADAL
 ======
 
 #### IT enthusiast with background in electronics, web development and Linux.
-###### [ [GitHub](https://github.com/marcsolanadal) ] . [ marcsolanadal@gmail.com ] . [ +34 636290957 ]
+###### [ [GitHub](https://github.com/marcsolanadal) ] . [ [mail@marcsolanadal.com](mailto:mail@marcsolanadal.com) ] . [ [+34 636290957](tel:0034636290957) ]
 
 Skills
 ------
