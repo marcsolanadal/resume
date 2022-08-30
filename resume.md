@@ -10,7 +10,7 @@ Skills
 
   - *Languages:* Javascript, Typescript, HTML/CSS
   - *Frameworks:* React, Angular, WebComponents
-  - *State:* Redux, XState (Hirarchical State Machines), RxJs
+  - *State:* Redux, XState (Hierarchical State Machines), RxJs
   - *Testing:* Jest, Testing library, Cypress
 
 **Embedded:** 
@@ -22,7 +22,7 @@ Skills
 
 **System Administrator:** Unix, Network administration, Linux kernel optimization, Docker, Bash, Security
 
-**Soft Skills:** Agile, Source control, TDD, Technical writting, Technical interviews, Vim, Meta-learning
+**Soft Skills:** Agile, Source control, TDD, Technical writing, Technical interviews, Vim, Meta-learning
 
 
 Experience
@@ -36,27 +36,27 @@ Experience
 
 **Full-Stack developer** (atSistemas, Oct 2015 - Jun 2016 · 9 mos)
 
-- Developed Back-End of in-house automatization tools for building hybrid mobile applications. 
+- Developed Back-End of in-house atomization tools for building hybrid mobile applications. 
 - Worked on insurance sector project solving critical issues with product owner.
 
 **Full-Stack developer** (Micronax, Jun 2014 - Dec 2014 · 7 mos)
 
-- Implemented OAUTH2 login protocol for multiple vendors in a hybrid moblie game.
+- Implemented OAUTH2 login protocol for multiple vendors in a hybrid mobile game.
 - Reported directly to the product owner in an international team based in Norway.
 
 **System administrator** (Barcelona University, Apr 2011 - Aug 2013 · 2 yrs 5 mos)
 
 - Managed and maintained a RedHat cluster and network of medium size.
-- Compiled and optimized the linux kernel to improve the performance of cluster.
+- Compiled and optimized the Linux kernel to improve the performance of cluster.
 - Helped all network users.
 
 **Freelance C# Developer** (Coralsis, Jul 2009 - Aug 2009 · 2 mos)
 
-- Developed application for online video streaming survilance.
+- Developed application for online video streaming surveillance.
 
 **Junior Developer** (Inditex, Apr 2008 - Jul 2008 · 4 mos)
 
-- Performed helpdesk and some basic .NET coding tasks.
+- Performed help-desk and some basic .NET coding tasks.
 
 
 Education
