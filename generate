@@ -1,4 +1,4 @@
 #! /bin/bash
 
-pandoc -t html -s --self-contained --css resume.css resume.md -o resume.html
-wkhtmltopdf -B 15mm -T 10mm resume-self-contained.html resume.pdf
+pandoc -t html -s --self-contained --css resume.css resume-front-end.md -o resume-self-contained.html
+wkhtmltopdf -B 15mm -T 10mm resume-self-contained.html Marc_Sola_Nadal_CV.pdf

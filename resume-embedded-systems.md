@@ -1,8 +1,8 @@
 MARC SOLÀ NADAL
 ======
 
-#### IT enthusiast with background in electronics, web development and Linux.
-###### [ [GitHub](https://github.com/marcsolanadal) ] . [ [mail@marcsolanadal.com](mailto:mail@marcsolanadal.com) ] . [ [+34 636290957](tel:0034636290957) ]
+#### Technologist with a background in electronics, web development, and Linux.
+###### [ [ [mail@marcsolanadal.com](mailto:mail@marcsolanadal.com) ] . [ [+34 636290957](tel:0034636290957) ]
 
 Skills
 ------
@@ -29,15 +29,15 @@ Experience
 ---------
 **Senior Front-End Developer** (GFT Technologies, Mar 2017 - Nov 2021 · 4 yrs 9 mos)
 
-- Developed Front-End solutions on the banking sector. 
+- Developed Front-End solutions in the banking sector. 
 - Planned new features with the product owner, from idea to production.
 - Solved architectural problems as part of the Front-End architecture team.
-- Advocate of best practices, testing, new tools and technologies.
+- An advocate of best practices, testing, new tools, and technologies.
 
 **Full-Stack developer** (atSistemas, Oct 2015 - Jun 2016 · 9 mos)
 
 - Developed Back-End of in-house automatization tools for building hybrid mobile applications. 
-- Worked on insurance sector project solving critical issues with product owner.
+- Worked on an insurance sector project solving critical issues with the product owner.
 
 **Full-Stack developer** (Micronax, Jun 2014 - Dec 2014 · 7 mos)
 
@@ -47,7 +47,7 @@ Experience
 **System administrator** (Barcelona University, Apr 2011 - Aug 2013 · 2 yrs 5 mos)
 
 - Managed and maintained a RedHat cluster and network of medium size.
-- Compiled and optimized the linux kernel to improve the performance of cluster.
+- Compiled and optimized the linux kernel to improve the performance of a cluster.
 - Helped all network users.
 
 **Freelance C# Developer** (Coralsis, Jul 2009 - Aug 2009 · 2 mos)
@@ -56,7 +56,7 @@ Experience
 
 **Junior Developer** (Inditex, Apr 2008 - Jul 2008 · 4 mos)
 
-- Performed helpdesk and some basic .NET coding tasks.
+- Performed help desk and some basic .NET coding tasks.
 
 
 Education
@@ -73,7 +73,7 @@ Personal Projects
 
 **Smart Egg Incubator** (ongoing)
 
-- Egg incubator with automatic egg turning, temperature and humidity control using FreeRTOS and C.
+- Egg incubator with automatic egg turning, temperature, and humidity control using FreeRTOS and C.
 - Raspberry Pico (RP2040), BME/BMP280 with I2C, Servo control using PWM, Flash memory to store position.
 - Flashing with SWD (using Raspberry Pi) and debugging with gdb. 
 
@@ -84,11 +84,11 @@ Personal Projects
 
 **Electrocardiogram board**
 
-- Electrocardiogram sensing board with three electrode system.
-- Used Texas Instruments ADC's and microcontroller with UART to log data.
+- Electrocardiogram sensing board with a three-electrode system.
+- Used Texas Instruments ADCs and microcontroller with UART to log data.
 
 **Biped robot**
 
 - Walking robot for Campus Party biped fighting competition.
-- Used Texas Instruments MSP430F5438 as microcontroller.
-- Coded HAL's for UART, Timers, WDT, ADC and Display.
+- Used Texas Instruments MSP430F5438 as the microcontroller.
+- Coded HALs for UART, Timers, WDT, ADC, and Display.
