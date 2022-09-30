@@ -7,24 +7,31 @@ Summary
 ------
 Technologist with a background in web development, Linux, and electronics.
 
+Software enginieer with more than 8 years of experience
+Remote work
+
 Experience
 ---------
 **On a break** (2022 - present)
 
-- Due to COVID-19, I decided to take a break and spend time with my loved ones and in my garden. I also learned new exciting technologies (Web3, WebAssembly, C and Rust) and drastically changed the way I learn using a knowledge management system.
+- Due to COVID-19, I decided to take a break and spend time with my loved ones and in my garden. 
+I took the oportunity to refresh my front-end skills and learned new technologies such as: *Web3*, *WebAssembly*, *C*, and *Rust*. 
+I also drastically changed the way I learn and organize myself using a knowledge management system.
 
 **Front-End Tech Lead** (GFT Technologies, 2019 - 2022)
 
-- Helped +20 collegues on React, Redux, and unit testing problems.
-- Migrated multiple projects to a testing stack based on to Jest, Testing library, and Cypress.
-- Embedded the first WebComponent of the online banking website, rendering a custom CMS solution. Used vanilla Javascript.
-- Solved architectural problems as part of the front-end architecture team and maintained component system. Used Styleguidist.
-- Implemented features for a client in the banking sector. Used Angular 10, Typescript, RxJs, Transloco, and Storybook.
+- Helped +20 collegues on *React*, *Redux*, and unit testing problems.
+- Migrated multiple projects to a testing stack based on to *Jest*, *Testing library*, and *Cypress*.
+- Embedded the first *WebComponent* of the online banking website, rendering a custom CMS solution. Used vanilla *Javascript*.
+- Solved architectural problems as part of the front-end architecture team and maintained component system. Used *Styleguidist*.
+- Implemented features for a client in the banking sector. Used *Angular 10*, *Typescript*, *RxJs*, *Transloco*, and *Storybook*.
 
 **Front-End Developer** (GFT Technologies, 2017 - 2018)
 
-- Developed front-end features for a client in the banking sector. Used React, Redux, Styled Components, and HTML/CSS.
-- Implemented a custom bar chart in React used by multiple projects.
+- Developed front-end features for a client in the banking sector. Used *React*, *Redux*, *Styled Components*, and *i18n*.
+- Designed complex components with a state machine approach. Used *XState*. 
+- Implemented a custom bar chart used by multiple projects. Used *React*.
+- Refactored large codebase with best-practices and maintainability as main focus.
 
 **Full-Stack developer** (atSistemas, 2015 - 2016)
 
@@ -52,4 +59,4 @@ Education
 
 Hobbies and interests
 ---------
-Game development, Japanese, knowledge management, gardening, and chickens.
+Game development, Japanese, meditation, gardening, and chickens.
