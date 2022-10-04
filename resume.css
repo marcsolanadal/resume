@@ -1,24 +1,33 @@
 :root {
   --main-color: black;
-  --title-color: darkblue;
-  --strong-color: royalblue;
-  --dim-color: dimgray; 
+  --strong-color: darkolivegreen;
+  --dim-color: dimgray;
 }
 
 body {
   font-family: Helvetica;
   padding: 2em 6em;
   color: var(--main-color);
-  font-size: 12px;
+  font-size: 14px;
 }
 
-h1, h2 {
-  color: var(--title-color);
+h1 {
+  display: flex;
+  justify-content: center;
+  color: var(--strong-color);
+  margin-bottom: 0;
+}
+
+.personal-details {
+  display: flex;
+  justify-content: center;
+  font-size: large;
 }
 
 h2 {
-  font-size: 24px;
-  border-bottom: 2px solid var(--title-color);
+  font-size: 16px;
+  color: var(--strong-color);
+  border-bottom: 1px solid var(--strong-color);
   margin-top: 1.5em;
 }
 
@@ -40,8 +49,20 @@ ul {
   margin-top: 5px;
 }
 
-strong {
-  color: var(--strong-color);
+.experience {
+  display: flex;
+  justify-content: space-between;
+  color: var(--main-color);
+  font-weight: bold;
+}
+
+.experience .job-title {
+  width: 200px;
+}
+
+.experience .company {
+  flex: auto;
+  padding-left: 100px;
 }
 
 em {
@@ -50,6 +71,7 @@ em {
 
 a {
   color: var(--dim-color);
+  font-weight: 400;
 }
 
 @media only screen and (max-width: 600px) {
@@ -58,8 +80,7 @@ a {
   }
 
   h6 {
-      display: flex;
-      flex-direction: column;
+    display: flex;
+    flex-direction: column;
   }
 }
-
