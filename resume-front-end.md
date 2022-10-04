@@ -42,7 +42,7 @@ I also drastically changed how I learn and organize myself using a knowledge man
 <div class="experience">
 <div class="job-title">Front-End Developer</div>
 <div class="company">GFT Technologies</div>
-<div class="date">2017 - 2018</div>
+<div class="date">2017 - 2019</div>
 </div>
 
 - Designed and developed 3 large front-end features for a client in the banking sector. Used *React*, *Redux*, *Styled Components*, and *i18n*.
@@ -89,7 +89,15 @@ EDUCATION
 
 **Certificate of Higher Education in Computer Programming** (2008 - 2010)
 
+LANGUAGES
+---------
+
+Catalan, Spanish, English, and Japanese.
+
+
 HOBBIES AND INTERESTS
 ---------
 
-Game development, Japanese, meditation, and gardening.
+Game development, language learning, meditation, and permaculture.
+
+
