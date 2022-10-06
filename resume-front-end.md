@@ -18,17 +18,17 @@ WORK EXPERIENCE
 
 <div class="experience">
 <div class="job-title">On a break</div>
-<div class="date">2022 - present</div>
+<div class="date">Nov 2021 - present</div>
 </div>
 
 - Due to COVID-19, I decided to take a break and spend time with my loved ones and in my garden.
 I took the opportunity to refresh my front-end skills and actively learned new technologies such as *Web3*, *WebAssembly*, *C*, and *Rust*.
 I also drastically changed how I learn and organize myself using a knowledge management system.
 
+<div class="company">GFT Technologies</div>
 <div class="experience">
 <div class="job-title">Front-End Tech Lead</div>
-<div class="company">GFT Technologies</div>
-<div class="date">2019 - 2022</div>
+<div class="date">Jan 2019 - Nov 2021</div>
 </div>
 
 - Helped +20 colleagues on *React*, *Redux*, and unit testing problems.
@@ -38,11 +38,11 @@ I also drastically changed how I learn and organize myself using a knowledge man
 - Maintained a large monorepo configuration for more than 50 people across several teams. Using *Webpack* and *Nx*.
 - Implemented the brokerage feature for a client in the banking sector. Used *Angular 10*, *Typescript*, *RxJs*, *Transloco*, and *Storybook*.
 - Conducted ceremonies as a Scrum master backup. Used *Agile*, *Scrum*, and *SAFe*.
+- Assesed front-end knowledge of candidates in more than 30 *technical interviews*.
 
 <div class="experience">
 <div class="job-title">Front-End Developer</div>
-<div class="company">GFT Technologies</div>
-<div class="date">2017 - 2019</div>
+<div class="date">Mar 2017 - Jan 2019</div>
 </div>
 
 - Designed and developed 3 large front-end features for a client in the banking sector. Used *React*, *Redux*, *Styled Components*, and *i18n*.
@@ -51,9 +51,9 @@ I also drastically changed how I learn and organize myself using a knowledge man
 - Implemented a custom bar chart used by multiple teams. Used *React*.
 - Refactored large codebase with best practices and maintainability as the main focus. Resulting in a more than 20% development speed increase. Used several *Redux* patterns.
 
+<div class="company">AtSistemas</div>
 <div class="experience">
 <div class="job-title">Full-Stack Developer</div>
-<div class="company">AtSistemas</div>
 <div class="date">2015 - 2016</div>
 </div>
 
@@ -61,18 +61,18 @@ I also drastically changed how I learn and organize myself using a knowledge man
 - Coded a QR plugin for a hybrid mobile application. Used *Cordova*, *Java*, and *Objective-C*.
 - I have solved critical issues on a project in the insurance sector ending up on on-time delivery. Used *AngularJS*.
 
+<div class="company">Micronax</div>
 <div class="experience">
 <div class="job-title">Junior Full-Stack Developer</div>
-<div class="company">Micronax</div>
 <div class="date">2014</div>
 </div>
 
 - Implemented the OAUTH2 protocol for Google and Facebook logins in a hybrid mobile game. Used *Cordova*, *Backbone*, and *Node*.
 - Reported directly to the product owner in an international team based in Norway.
 
+<div class="company">Barcelona University</div>
 <div class="experience">
 <div class="job-title">System Administrator</div>
-<div class="company">Barcelona University</div>
 <div class="date">2011 - 2013</div>
 </div>
 
@@ -94,10 +94,7 @@ LANGUAGES
 
 Catalan, Spanish, English, and Japanese.
 
-
 HOBBIES AND INTERESTS
 ---------
 
 Game development, language learning, meditation, and permaculture.
-
-

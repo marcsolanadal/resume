@@ -49,6 +49,15 @@ ul {
   margin-top: 5px;
 }
 
+
+.company {
+  font-weight: bold;
+  color: var(--strong-color);
+  font-size: 12px;
+  border-bottom: 1px dotted var(--strong-color);
+  margin-bottom: 5px;
+}
+
 .experience {
   display: flex;
   justify-content: space-between;
@@ -60,10 +69,6 @@ ul {
   width: 200px;
 }
 
-.experience .company {
-  flex: auto;
-  padding-left: 100px;
-}
 
 em {
   color: var(--dim-color);
