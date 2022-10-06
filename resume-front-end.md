@@ -35,7 +35,7 @@ I also drastically changed how I learn and organize myself using a knowledge man
 - Migrated multiple projects to a modern testing stack. Used *Jest*, *Testing library*, and *Cypress*.
 - Embedded the first *WebComponent* of the online banking website, focused on rendering a custom CMS solution. Used vanilla *Javascript*.
 - Solved architectural problems as part of the front-end architecture team and maintained the component system. Used *Styleguidist*.
-- Maintained a large monorepo configuration for more than 50 people across several teams. Using *Webpack* and *Nx*.
+- Maintained a large monorepo configuration for more than 50 people across several teams. Used *Webpack* and *Nx*.
 - Implemented the brokerage feature for a client in the banking sector. Used *Angular 10*, *Typescript*, *RxJs*, *Transloco*, and *Storybook*.
 - Conducted ceremonies as a Scrum master backup. Used *Agile*, *Scrum*, and *SAFe*.
 - Assesed front-end knowledge of candidates in more than 30 *technical interviews*.
