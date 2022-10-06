@@ -38,7 +38,7 @@ I also drastically changed how I learn and organize myself using a knowledge man
 - Maintained a large monorepo configuration for more than 50 people across several teams. Used *Webpack* and *Nx*.
 - Implemented the brokerage feature for a client in the banking sector. Used *Angular 10*, *Typescript*, *RxJs*, *Transloco*, and *Storybook*.
 - Conducted ceremonies as a Scrum master backup. Used *Agile*, *Scrum*, and *SAFe*.
-- Assesed front-end knowledge of candidates in more than 30 *technical interviews*.
+- Assessed front-end knowledge of candidates in more than 30 *technical interviews*.
 
 <div class="experience">
 <div class="job-title">Front-End Developer</div>
